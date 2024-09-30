@@ -2,7 +2,7 @@
     <img src="https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/07/AI_dreamstime_l_282551236.64a823005cdf7.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630" alt="MasterHead" width="1200" height="360">
 </a>
 
-<h1 align="center">Hi 👋, I'm MOHAMED AMHAL</h1>
+<h1 align="center">Hey 👋, I'm MOHAMED AMHAL</h1>
 <h3 align="center">I am an engineering student at ENSA Tetouan specializing in Big Data and AI, and I am also a student at ALX specializing in Software Engineering.</h3>
 <img align="right"<img src="https://professionalprograms.mit.edu/wp-content/uploads/blog-post-AI-engineering-1024X1024.jpg" width="300" alt="AI Engineering"/> </p>
 
