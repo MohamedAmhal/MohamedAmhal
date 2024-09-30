@@ -1,4 +1,4 @@
-[![MasterHead](https://geekflare.com/wp-content/uploads/2023/12/AI-coding-tools.jpg)](https://rishavchanda.io)
+[![MasterHead](https://imechewebresources.blob.core.windows.net/imeche-web-content/images/default-source/pe-news/human-engineers-working-with-robot-colleagues-in-a-futuristic-factory-hyperrealistic-4k-copy.jpg?sfvrsn=47ee6511_0)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm MOHAMED AMHAL</h1>
 <h3 align="center">I am an engineering student at ENSA Tetouan specializing in Big Data and AI, and I am also a student at ALX specializing in Software Engineering.</h3>
