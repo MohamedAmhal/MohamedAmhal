@@ -1,5 +1,5 @@
 <a href="https://rishavchanda.io">
-    <img src="https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/07/AI_dreamstime_l_282551236.64a823005cdf7.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630" alt="MasterHead" width="1200" height="300">
+    <img src="https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/07/AI_dreamstime_l_282551236.64a823005cdf7.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630" alt="MasterHead" width="1200" height="360">
 </a>
 
 <h1 align="center">Hi 👋, I'm MOHAMED AMHAL</h1>
