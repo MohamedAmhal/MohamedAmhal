@@ -7,17 +7,15 @@
 
 
 
-- 🔭 I’m currently working on [Recommandation_system](https://github.com/MohamedAmhal/Recommandation_system_project_maching_learning)
+- 🔭 I’m currently working on [Maching_learning_models_from_scratch](https://github.com/MohamedAmhal/Maching_learning_models_from_scratch)
 
-- 🌱 I’m currently learning **APIs, WEB DEV**
+- 🌱 I’m currently learning **ML and Data analysis, WEB DEV**
 
 - 👨‍💻 All of my projects are available at [soon](soon)
 
-- 📝 I regularly write articles on [-](-)
-
 - 📫 How to reach me **mohammedamhal349@gmail.com**
 
-- 📄 Know about my experiences [-](-)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/mohamed-amhal-168360254/)
 
 - ⚡ Fun fact **I think I'm funny**
 
