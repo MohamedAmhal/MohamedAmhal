@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm MOHAMED AMHAL</h1>
 <h3 align="center">I am an engineering student at ENSA Tetouan specializing in Big Data and AI, and I am also a student at ALX specializing in Software Engineering.</h3>
-<img align="right"<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0UEr18d6V6XqxEvhATlIDlbM7V4hctDDpAgno-nM6hQ&s"/> </p>
+<img align="right"<img src="https://professionalprograms.mit.edu/wp-content/uploads/blog-post-AI-engineering-1024X1024.jpg/images?q=tbn:ANd9GcR0UEr18d6V6XqxEvhATlIDlbM7V4hctDDpAgno-nM6hQ&s"/> </p>
 
 
 
