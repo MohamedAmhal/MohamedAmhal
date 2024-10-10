@@ -42,18 +42,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedamhal&" alt="mohamedamhal" /></p>
 
-## Certifications
+## Certificate ALX
 
 <p align="center">
   <img src="https://i.ibb.co/r0fV8rM/17-short-specializations-certificate-mohamed-amhal.png" alt="Certification 1"  width="640" height="360"/>
-  <img src="https://i.ibb.co/fvfNyt2/Capture-d-cran-2024-10-10-180802.png" alt="Certification 2"  width="420" height="550/>
-  <img src="link_to_certificate_3" alt="Certification 3" width="200" height="200"/>
-</p>
-<p align="center">
-  <img src="link_to_certificate_4" alt="Certification 4" width="200" height="200"/>
-  <img src="link_to_certificate_5" alt="Certification 5" width="200" height="200"/>
-  <img src="link_to_certificate_6" alt="Certification 6" width="200" height="200"/>
-</p>
-<p align="center">
-  <img src="link_to_certificate_7" alt="Certification 7" width="200" height="200"/>
 </p>
