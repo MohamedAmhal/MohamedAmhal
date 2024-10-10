@@ -45,7 +45,7 @@
 ## Certifications
 
 <p align="center">
-  <img src="https://i.ibb.co/r0fV8rM/17-short-specializations-certificate-mohamed-amhal.png" alt="Certification 1" width="200" height="200"/>
+  <img src="https://i.ibb.co/r0fV8rM/17-short-specializations-certificate-mohamed-amhal.png" alt="Certification 1"  width="640" height="360"/>
   <img src="link_to_certificate_2" alt="Certification 2" width="200" height="200"/>
   <img src="link_to_certificate_3" alt="Certification 3" width="200" height="200"/>
 </p>
