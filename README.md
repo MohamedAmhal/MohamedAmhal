@@ -3,7 +3,7 @@
 </a>
 
 <h1 align="center">Hey 👋, I'm MOHAMED AMHAL</h1>
-<h3 align="center">I am an engineering student at ENSA Tetouan specializing in Big Data and AI, and I am also a student at ALX specializing in Software Engineering.</h3>
+<h3 align="center">I am an engineering student at ENSA Tetouan specializing in Big Data and AI, and I am a Software Engineering specializing in backend.</h3>
 <img align="right"<img src="https://professionalprograms.mit.edu/wp-content/uploads/blog-post-AI-engineering-1024X1024.jpg" width="300" alt="AI Engineering"/> </p>
 
 
