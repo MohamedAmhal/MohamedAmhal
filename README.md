@@ -45,7 +45,7 @@
 ## Certifications
 
 <p align="center">
-  <img src="link_to_certificate_1" alt="Certification 1" width="200" height="200"/>
+  <img src="https://ibb.co/LRh3j76" alt="Certification 1" width="200" height="200"/>
   <img src="link_to_certificate_2" alt="Certification 2" width="200" height="200"/>
   <img src="link_to_certificate_3" alt="Certification 3" width="200" height="200"/>
 </p>
