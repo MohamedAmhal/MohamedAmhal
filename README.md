@@ -41,3 +41,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedamhal&show_icons=true&locale=en" alt="mohamedamhal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedamhal&" alt="mohamedamhal" /></p>
+
+## Certifications
+
+<p align="center">
+  <img src="link_to_certificate_1" alt="Certification 1" width="200" height="200"/>
+  <img src="link_to_certificate_2" alt="Certification 2" width="200" height="200"/>
+  <img src="link_to_certificate_3" alt="Certification 3" width="200" height="200"/>
+</p>
+<p align="center">
+  <img src="link_to_certificate_4" alt="Certification 4" width="200" height="200"/>
+  <img src="link_to_certificate_5" alt="Certification 5" width="200" height="200"/>
+  <img src="link_to_certificate_6" alt="Certification 6" width="200" height="200"/>
+</p>
+<p align="center">
+  <img src="link_to_certificate_7" alt="Certification 7" width="200" height="200"/>
+</p>
