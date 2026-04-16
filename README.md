@@ -132,7 +132,7 @@ me.say_hi()
 
 <div align="center">
 
-### ALX Short Specialization Certificate
+### ALX Back-End Specialization Certificate
 
 <img src="https://i.ibb.co/r0fV8rM/17-short-specializations-certificate-mohamed-amhal.png" alt="ALX Certificate" width="620" />
 
