@@ -5,16 +5,7 @@
 
 </div>
 
-<!-- Hero Banner Image -->
-<div align="center">
-<a href="https://rishavchanda.io">
-  <img src="https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/07/AI_dreamstime_l_282551236.64a823005cdf7.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630" alt="AI Banner" width="300" />
-</a>
-</div>
 
-<br/><br/>
-
-<div align="center">
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
