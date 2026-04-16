@@ -1,49 +1,153 @@
-<a href="https://rishavchanda.io">
-    <img src="https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/07/AI_dreamstime_l_282551236.64a823005cdf7.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630" alt="MasterHead" width="1200" height="360">
+<div align="center">
+
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohamed%20Amhal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Big%20Data%20%26%20AI%20Engineer%20%7C%20Backend%20Developer&descAlignY=58&descAlign=50&descSize=18" />
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Engineering+Student+%40+ENSA+Tetouan;Big+Data+%26+AI+Specialist;Backend+Software+Engineer;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<h1 align="center">Hey 👋, I'm MOHAMED AMHAL</h1>
-<h3 align="center">I am an engineering student at ENSA Tetouan specializing in Big Data and AI, and I am a Software Engineering specializing in backend.</h3>
-<img align="right"<img src="https://professionalprograms.mit.edu/wp-content/uploads/blog-post-AI-engineering-1024X1024.jpg" width="300" alt="AI Engineering"/> </p>
+<br/>
 
-
-
-
-- 🔭 I’m currently working on [Maching_learning_models_from_scratch](https://github.com/MohamedAmhal/Maching_learning_models_from_scratch)
-
-- 🌱 I’m currently learning **ML and Data analysis, WEB DEV**
-
-- 👨‍💻 All of my projects are available at [soon](soon)
-
-- 📫 How to reach me **mohammedamhal349@gmail.com**
-
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/mohamed-amhal-168360254/)
-
-- ⚡ Fun fact **I think I'm funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mohamedamha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamedamha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed amhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed amhal" height="30" width="40" /></a>
-<a href="https://kaggle.com/mohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohammed" height="30" width="40" /></a>
-<a href="https://fb.com/mohamed amhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed amhal" height="30" width="40" /></a>
-<a href="https://instagram.com/_mohammed_amhal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mohammed_amhal_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mohammedamhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohammedamhal" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mohammedamhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohammedamhal" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@mohammedamhal349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mohammedamhal349" height="30" width="40" /></a>
+<!-- Profile Views & Social Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mohamedamhal&label=Profile%20views&color=7c3aed&style=flat-square" alt="profile views" />
+  <a href="https://linkedin.com/in/mohamed-amhal-168360254/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/mohamedamha"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:mohammedamhal349@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://kaggle.com/mohammed"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedamhal&show_icons=true&locale=en&layout=compact" alt="mohamedamhal" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedamhal&show_icons=true&locale=en" alt="mohamedamhal" /></p>
+## 🧠 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedamhal&" alt="mohamedamhal" /></p>
+```python
+class MohamedAmhal:
+    def __init__(self):
+        self.name        = "Mohamed Amhal"
+        self.role        = ["Big Data & AI Engineering Student", "Backend Developer"]
+        self.school      = "ENSA Tetouan 🎓"
+        self.languages   = ["Python", "JavaScript", "C", "Bash"]
+        self.interests   = ["Machine Learning", "Data Engineering", "Backend APIs"]
+        self.currently   = "Building ML models from scratch 🔬"
+        self.fun_fact    = "I think I'm funny 😄"
 
-## Certificate ALX
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something amazing together 🚀")
 
-<p align="center">
-  <img src="https://i.ibb.co/r0fV8rM/17-short-specializations-certificate-mohamed-amhal.png" alt="Certification 1"  width="640" height="360"/>
+me = MohamedAmhal()
+me.say_hi()
+```
+
+---
+
+## 🚀 Current Focus
+
+- 🔭 Working on **[Machine Learning Models from Scratch](https://github.com/MohamedAmhal/Maching_learning_models_from_scratch)**
+- 🌱 Deepening skills in **ML, Data Analysis & Web Development**
+- 🎯 Goal: Build production-grade AI-powered applications
+- 📄 Resume & experiences on **[LinkedIn](https://www.linkedin.com/in/mohamed-amhal-168360254/)**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
+
+### 🤖 AI / Data Science
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+</p>
+
+### 🌐 Web & Backend
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & DevOps
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohamedamhal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedamhal&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=ffffff" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedamhal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&layout=compact" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedamhal&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
+---
+
+## 🎓 Certifications
+
+<div align="center">
+
+### ALX Short Specialization Certificate
+<img src="https://i.ibb.co/r0fV8rM/17-short-specializations-certificate-mohamed-amhal.png" alt="ALX Certificate" width="600"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [Mohamed Amhal](https://www.linkedin.com/in/mohamed-amhal-168360254/) |
+| 🐦 Twitter | [@mohamedamha](https://twitter.com/mohamedamha) |
+| 📧 Email | [mohammedamhal349@gmail.com](mailto:mohammedamhal349@gmail.com) |
+| 🏆 HackerRank | [mohammedamhal](https://www.hackerrank.com/mohammedamhal) |
+| ⚔️ Codeforces | [mohammedamhal](https://codeforces.com/profile/mohammedamhal) |
+| 📊 Kaggle | [mohammed](https://kaggle.com/mohammed) |
+| 📘 Facebook | [Mohamed Amhal](https://fb.com/mohamed%20amhal) |
+| 📸 Instagram | [_mohammed_amhal_](https://instagram.com/_mohammed_amhal_) |
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+
+*"The best way to predict the future is to create it."* 💜
+
+</div>
