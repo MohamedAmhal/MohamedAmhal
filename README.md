@@ -7,6 +7,10 @@
 
 
 
+<br/><br/>
+
+<div align="center">
+
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Engineering+Student+%40+ENSA+Tetouan;Big+Data+%26+AI+Specialist;Backend+Software+Engineer;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
@@ -28,7 +32,7 @@
 
 ## 🧠 About Me
 
-<img align="right" src="https://professionalprograms.mit.edu/wp-content/uploads/blog-post-AI-engineering-1024X1024.jpg" width="300" alt="AI Engineering" />
+
 
 ```python
 class MohamedAmhal:
