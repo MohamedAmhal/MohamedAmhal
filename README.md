@@ -3,14 +3,24 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohamed%20Amhal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Big%20Data%20%26%20AI%20Engineer%20%7C%20Backend%20Developer&descAlignY=58&descAlign=50&descSize=18" />
 
+</div>
+
+<!-- Hero Banner Image -->
+<a href="https://rishavchanda.io">
+  <img src="https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/07/AI_dreamstime_l_282551236.64a823005cdf7.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630" alt="AI Banner" width="100%" />
+</a>
+
+<br/><br/>
+
+<div align="center">
+
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Engineering+Student+%40+Polytech+Angers;Big+Data+%26+AI+Specialist;Backend+Software+Engineer;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Engineering+Student+%40+ENSA+Tetouan;Big+Data+%26+AI+Specialist;Backend+Software+Engineer;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=mohamedamhal&label=Profile%20views&color=7c3aed&style=flat-square" alt="profile views" />
   <a href="https://linkedin.com/in/mohamed-amhal-168360254/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -25,23 +35,29 @@
 
 ## 🧠 About Me
 
+<img align="right" src="https://professionalprograms.mit.edu/wp-content/uploads/blog-post-AI-engineering-1024X1024.jpg" width="280" alt="AI Engineering" />
+
 ```python
 class MohamedAmhal:
     def __init__(self):
         self.name        = "Mohamed Amhal"
-        self.role        = ["Big Data & AI Engineering Student", "Backend Developer"]
+        self.role        = ["Big Data & AI Engineering Student",
+                            "Backend Developer"]
         self.school      = "ENSA Tetouan 🎓"
         self.languages   = ["Python", "JavaScript", "C", "Bash"]
-        self.interests   = ["Machine Learning", "Data Engineering", "Backend APIs"]
+        self.interests   = ["Machine Learning", "Data Engineering",
+                            "Backend APIs"]
         self.currently   = "Building ML models from scratch 🔬"
         self.fun_fact    = "I think I'm funny 😄"
 
     def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
+        print("Thanks for visiting! Let's build something amazing 🚀")
 
 me = MohamedAmhal()
 me.say_hi()
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -50,7 +66,9 @@ me.say_hi()
 - 🔭 Working on **[Machine Learning Models from Scratch](https://github.com/MohamedAmhal/Maching_learning_models_from_scratch)**
 - 🌱 Deepening skills in **ML, Data Analysis & Web Development**
 - 🎯 Goal: Build production-grade AI-powered applications
-- 📄 Resume & experiences on **[LinkedIn](https://www.linkedin.com/in/mohamed-amhal-168360254/)**
+- 📫 Reach me at **mohammedamhal349@gmail.com**
+- 📄 My experiences on **[LinkedIn](https://www.linkedin.com/in/mohamed-amhal-168360254/)**
+- ⚡ Fun fact: **I think I'm funny**
 
 ---
 
@@ -118,7 +136,8 @@ me.say_hi()
 <div align="center">
 
 ### ALX Short Specialization Certificate
-<img src="https://i.ibb.co/r0fV8rM/17-short-specializations-certificate-mohamed-amhal.png" alt="ALX Certificate" width="600"/>
+
+<img src="https://i.ibb.co/r0fV8rM/17-short-specializations-certificate-mohamed-amhal.png" alt="ALX Certificate" width="620" />
 
 </div>
 
@@ -145,7 +164,6 @@ me.say_hi()
 
 <div align="center">
 
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
 
 *"The best way to predict the future is to create it."* 💜
