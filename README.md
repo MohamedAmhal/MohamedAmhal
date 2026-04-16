@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohamed%20Amhal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Big%20Data%20%26%20AI%20Engineer%20%7C%20Backend%20Developer&descAlignY=58&descAlign=50&descSize=18" />
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=A78BFA&center=true&vCenter=true&width=1200&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Amhal" alt="Header" />
 
 </div>
 
@@ -161,7 +161,7 @@ me.say_hi()
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=1200&height=40&lines=Thanks+for+visiting+my+profile+%F0%9F%92%9C" alt="Footer" />
 
 *"The best way to predict the future is to create it."* 💜
 
