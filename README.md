@@ -6,9 +6,11 @@
 </div>
 
 <!-- Hero Banner Image -->
+<div align="center">
 <a href="https://rishavchanda.io">
-  <img src="https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/07/AI_dreamstime_l_282551236.64a823005cdf7.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630" alt="AI Banner" width="100%" />
+  <img src="https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/07/AI_dreamstime_l_282551236.64a823005cdf7.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630" alt="AI Banner" width="300" />
 </a>
+</div>
 
 <br/><br/>
 
@@ -35,7 +37,7 @@
 
 ## 🧠 About Me
 
-<img align="right" src="https://professionalprograms.mit.edu/wp-content/uploads/blog-post-AI-engineering-1024X1024.jpg" width="280" alt="AI Engineering" />
+<img align="right" src="https://professionalprograms.mit.edu/wp-content/uploads/blog-post-AI-engineering-1024X1024.jpg" width="300" alt="AI Engineering" />
 
 ```python
 class MohamedAmhal:
